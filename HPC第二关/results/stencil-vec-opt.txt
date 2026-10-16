@@ -1,0 +1,21 @@
+/usr/include/c++/15/bits/move.h:236:11: optimized: basic block part vectorized using 16 byte vectors
+/usr/include/c++/15/bits/move.h:236:11: optimized: basic block part vectorized using 16 byte vectors
+common.hpp:69:30: optimized: loop vectorized using 64 byte vectors
+common.hpp:69:30: optimized: loop vectorized using 32 byte vectors
+common.hpp:66:30: optimized: loop vectorized using 64 byte vectors
+common.hpp:75:40: optimized: basic block part vectorized using 16 byte vectors
+common.hpp:75:40: optimized: basic block part vectorized using 16 byte vectors
+common.hpp:75:40: optimized: basic block part vectorized using 16 byte vectors
+stencil.cpp:25:31: optimized: loop vectorized using 64 byte vectors
+stencil.cpp:25:31: optimized:  loop versioned for vectorization because of possible aliasing
+stencil.cpp:25:31: optimized: loop vectorized using 32 byte vectors
+stencil.cpp:25:31: optimized: loop vectorized using 16 byte vectors
+stencil.cpp:52:57: optimized: loop vectorized using 64 byte vectors
+stencil.cpp:52:57: optimized:  loop versioned for vectorization because of possible aliasing
+stencil.cpp:52:57: optimized: loop vectorized using 32 byte vectors
+stencil.cpp:52:57: optimized: loop vectorized using 16 byte vectors
+/usr/include/c++/15/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using 64 byte vectors
+/usr/include/c++/15/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using 32 byte vectors
+/usr/include/c++/15/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using 16 byte vectors
+stencil.cpp:43:48: optimized: basic block part vectorized using 16 byte vectors
+stencil.cpp:43:58: optimized: basic block part vectorized using 16 byte vectors

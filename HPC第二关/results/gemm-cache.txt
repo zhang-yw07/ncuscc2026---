@@ -1,0 +1,14 @@
+# started on Tue Oct 13 20:14:42 2026
+
+
+ Performance counter stats for './gemm 512 blocked 64 5':
+
+          20883430      cache-references:u                                                    
+           2980759      cache-misses:u                                                        
+
+       0.066556677 seconds time elapsed
+
+       0.062606000 seconds user
+       0.004173000 seconds sys
+
+

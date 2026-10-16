@@ -1,0 +1,14 @@
+# started on Tue Oct 13 20:14:16 2026
+
+
+ Performance counter stats for './stencil 1024 1024 20 row 5':
+
+         238290100      cycles:u                                                              
+         339337812      instructions:u                                                        
+
+       0.073761344 seconds time elapsed
+
+       0.048034000 seconds user
+       0.024017000 seconds sys
+
+
